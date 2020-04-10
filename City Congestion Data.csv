@@ -1,0 +1,417 @@
+City,Country,World Rank,Congestion Level,Latitude,Longitude
+Bengaluru, India,1,71%,12.9791198,77.5912997
+Manila, Philippines,2,71%,14.5906216,120.9799696
+Bogota, Colombia,3,68%,4.59808,-74.0760439
+Mumbai, India,4,65%,18.9387711,72.8353355
+Pune, India,5,59%,18.521428,73.8544541
+Moscow region (oblast), Russia,6,59%,56.4402344,84.9267302
+Lima, Peru,7,57%,-12.0621065,-77.0365256
+New Delhi, India,8,56%,28.6141793,77.2022662
+Istanbul, Turkey,9,55%,41.0766019,29.052495
+Jakarta, Indonesia,10,53%,-6.1753942,106.827183
+Bangkok, Thailand,11,53%,13.7542529,100.493087
+Kyiv, Ukraine,12,53%,50.4500336,30.5241361
+Mexico City, Mexico,13,52%,19.4326296,-99.1331785
+Bucharest, Romania,14,52%,44.4361414,26.1027202
+Recife, Brazil,15,50%,-8.0641931,-34.8781517
+Saint Petersburg, Russia,16,49%,59.9606739,30.1586551
+Dublin, Ireland,17,48%,53.3497645,-6.2602732
+Odessa, Ukraine,18,47%,46.4873195,30.7392776
+Lodz, Poland,19,47%,51.7687323,19.4569911
+Rio de Janeiro, Brazil,20,46%,-22.9110137,-43.2093727
+Tel Aviv, Israel,21,46%,32.0804808,34.7805274
+Krakow, Poland,22,45%,50.0469432,19.997153435836697
+Novosibirsk, Russia,23,45%,55.0282171,82.9234509
+Sao Paulo, Brazil,24,45%,-23.5506507,-46.6333824
+Samara, Russia,25,44%,53.198627,50.113987
+Santiago, Chile,26,44%,-33.4377968,-70.6504451
+Poznan, Poland,27,44%,52.40063215,16.91978694287606
+Salvador, Brazil,28,43%,-12.9822499,-38.4812772
+Kharkiv, Ukraine,29,43%,49.9902794,36.2303893
+Athens, Greece,30,43%,37.9839412,23.7283052
+Los Angeles, United States of America,31,42%,34.0536909,-118.2427666
+Tokyo, Japan,32,42%,35.6828387,139.7594549
+Edinburgh, United Kingdom,33,41%,55.9533456,-3.1883749
+Chongqing, China,34,41%,29.5585712,106.5492822
+Yekaterinburg, Russia,35,41%,56.839104,60.60825
+Cairo, Egypt,36,40%,30.048819,31.243666
+Warsaw, Poland,37,40%,52.2337172,21.07141112883227
+Guangzhou, China,38,40%,23.1301964,113.2592945
+Zhuhai, China,39,39%,22.2305196,113.5462439
+Vancouver, Canada,40,39%,49.2608724,-123.1139529
+Wroclaw, Poland,41,39%,51.1263106,16.97819633051261
+Paris, France,42,39%,48.8566969,2.3514616
+Rome, Italy,43,38%,41.8933203,12.4829321
+Brussels, Belgium,44,38%,50.8436709,4.3674366933879565
+London, United Kingdom,45,38%,51.5073219,-0.1276474
+Kuala Lumpur, Malaysia,46,37%,3.1516964,101.6942371
+Dnipro, Ukraine,47,37%,47.82035305,35.13291362671017
+Budapest, Hungary,48,37%,47.48138955,19.14607278448202
+Shenzhen, China,49,37%,22.555454,114.0543297
+Fortaleza, Brazil,50,37%,-3.7304512,-38.5217989
+Beijing, China,51,37%,39.906217,116.3912757
+New York, United States of America,52,37%,40.7127281,-74.0060152
+Luxembourg, Luxembourg,53,36%,49.6112768,6.129799
+Sofia, Bulgaria,54,36%,42.6978634,23.3221789
+Bratislava, Slovakia,55,36%,48.1516988,17.1093063
+Palermo, Italy,56,36%,38.1112268,13.3524434
+Osaka, Japan,57,36%,34.6198813,135.490357
+Rostov-on-Don, Russia,58,36%,47.2213858,39.7114196
+San Francisco, United States of America,59,36%,37.7790262,-122.4199061
+Belo Horizonte, Brazil,60,35%,-19.9227318,-43.9450948
+Changsha, China,61,35%,28.1979483,112.97133
+Porto Alegre, Brazil,62,35%,-30.0324999,-51.2303767
+Brighton and Hove, United Kingdom,63,35%,50.845221249999994,-0.14975850541139246
+Taipei, Taiwan,64,35%,25.0375198,121.5636796
+Chengdu, China,65,35%,30.6624205,104.0633219
+Buenos Aires, Argentina,66,35%,-34.6075682,-58.4370894
+Mons, Belgium,67,34%,50.4549568,3.951958
+Marseille, France,68,34%,43.2961743,5.3699525
+Bournemouth, United Kingdom,69,34%,50.7194784,-1.8767712
+Hamburg, Germany,70,34%,53.5437641,10.0099133
+Bydgoszcz, Poland,71,34%,53.1219648,18.0002529
+Chelyabinsk, Russia,72,34%,55.1598408,61.4025547
+Hull, United Kingdom,73,34%,53.7435722,-0.3394758
+Taichung, Taiwan,74,34%,24.163162,120.6478282
+Cork, Ireland,75,33%,51.8979282,-8.4705806
+Belfast, United Kingdom,76,33%,54.5964411,-5.9302761
+Geneva, Switzerland,77,33%,46.2017559,6.1466014
+Changchun, China,78,33%,43.8882168,125.3182578
+Southampton, United Kingdom,79,33%,50.9025349,-1.404189
+Toronto, Canada,80,33%,43.6534817,-79.3839347
+Lisbon, Portugal,81,33%,38.7077507,-9.1365919
+"Gdansk, Gdynia and Sopot", Poland,82,33%,54.4629635,18.5541428
+Bristol, United Kingdom,83,33%,51.4538022,-2.5972985
+San Jose, United States of America,84,33%,37.3361905,-121.8905833
+Nagoya, Japan,85,33%,35.1851045,136.8998438
+Sydney, Australia,86,33%,-33.8548157,151.2164539
+Kaohsiung, Taiwan,87,33%,22.6203348,120.3120375
+Manchester, United Kingdom,88,33%,53.4794892,-2.2451148
+Reading, United Kingdom,89,32%,51.45149525,-0.9836342499365378
+Omsk, Russia,90,32%,54.991375,73.371529
+Vilnius, Lithuania,91,32%,54.6870458,25.2829111
+Naples, Italy,92,32%,40.8359336,14.2487826
+Bordeaux, France,93,32%,44.841225,-0.5800364
+Berlin, Germany,94,32%,52.5170365,13.3888599
+Nizhny Novgorod, Russia,95,32%,56.328571,44.003506
+Singapore, Singapore,96,32%,1.357107,103.8194992
+Antwerp, Belgium,97,32%,51.2211097,4.3997081
+Leicester, United Kingdom,98,32%,52.6361398,-1.1330789
+Grenoble, France,99,32%,45.1875602,5.7357819
+Ankara, Turkey,100,32%,39.9207774,32.854067
+Cape Town, South Africa,101,32%,-33.928992,18.417396
+Wiesbaden, Germany,102,32%,50.0820384,8.2416556
+Zurich, Switzerland,103,32%,47.3723941,8.5423328
+Messina, Italy,104,31%,38.1937571,15.5542082
+Auckland, New Zealand,105,31%,-36.852095,174.7631803
+Tomsk, Russia,106,31%,58.6124279,82.0475315
+Milan, Italy,107,31%,45.4668,9.1905
+Hong Kong, Hong Kong,108,31%,22.2793278,114.1628131
+Porto, Portugal,109,31%,41.1494512,-8.6107884
+Seattle, United States of America,110,31%,47.6038321,-122.3300624
+Tallinn, Estonia,111,31%,59.4372155,24.7453688
+Xiamen, China,112,31%,24.4758496,118.0746834
+Miami, United States of America,113,31%,25.7742658,-80.1936589
+Tainan, Taiwan,114,31%,22.9912348,120.184982
+Shanghai, China,115,31%,31.2322758,121.4692071
+Nice, France,116,31%,43.7009358,7.2683912
+Lugano, Switzerland,117,31%,46.0050102,8.9520281
+Limerick, Ireland,118,31%,52.661252,-8.6301239
+Brno, Czechia,119,30%,49.1922443,16.6113382
+Lyon, France,120,30%,45.7578137,4.8320114
+Johannesburg, South Africa,121,30%,-26.205,28.049722
+Szczecin, Poland,122,30%,53.42968095,14.592912670292268
+Melbourne, Australia,123,30%,-37.8142176,144.9631608
+Munich, Germany,124,30%,48.1371079,11.5753822
+Cardiff, United Kingdom,125,30%,51.4816546,-3.1791934
+Nanjing, China,126,30%,32.0609736,118.7916458
+Taoyuan, Taiwan,127,30%,24.9929995,121.3010003
+Genoa, Italy,128,30%,44.40726,8.9338624
+Nuremberg, Germany,129,30%,49.453872,11.077298
+Thessaloniki, Greece,130,30%,40.6403167,22.9352716
+Leiden, Netherlands,131,30%,52.1518157,4.4811088666204295
+Stuttgart, Germany,132,30%,48.7784485,9.1800132
+Sapporo, Japan,133,30%,43.061936,141.3542924
+Izmir, Turkey,134,29%,38.4147331,27.1434119
+Bonn, Germany,135,29%,50.735851,7.10066
+Prague, Czechia,136,29%,50.0874654,14.4212535
+Catania, Italy,137,29%,37.5022355,15.08738
+Montreal, Canada,138,29%,45.4972159,-73.6103642
+Ottawa, Canada,139,29%,45.421106,-75.690308
+Barcelona, Spain,140,29%,41.3828939,2.1774322
+Washington, United States of America,141,29%,38.8948932,-77.0365529
+Toulon, France,142,29%,43.1257311,5.9304919
+Kazan, Russia,143,29%,55.7823547,49.1242266
+Antalya, Turkey,144,29%,36.9279654,30.7276865
+Liverpool, United Kingdom,145,28%,53.407154,-2.991665
+Toulouse, France,146,28%,43.6044622,1.4442469
+Wellington, New Zealand,147,28%,-41.2887953,174.7772114
+Chicago, United States of America,148,28%,41.8755616,-87.6244212
+Curitiba, Brazil,149,28%,-25.4295963,-49.2712724
+Kassel, Germany,150,28%,51.3154546,9.4924096
+The Hague, Netherlands,151,28%,52.0799838,4.3113461
+Bari, Italy,152,28%,41.1257843,16.8620293
+Birmingham-Wolverhampton, United Kingdom,153,28%,52.5571196,-2.0793717
+Hangzhou, China,154,28%,30.2489634,120.2052342
+Vienna, Austria,155,28%,48.2083537,16.3725042
+Honolulu, United States of America,156,28%,21.304547,-157.8556764
+Fuzhou, China,157,28%,27.9957951,116.353245
+Stoke-on-Trent, United Kingdom,158,28%,53.0162014,-2.1812607
+Shenyang, China,159,28%,41.8041094,123.4276363
+Strasbourg, France,160,28%,48.584614,7.7507127
+Sheffield, United Kingdom,161,28%,53.3806626,-1.4702278
+Austin, United States of America,162,27%,30.2711286,-97.7436995
+Haarlem, Netherlands,163,27%,52.3885317,4.6388048
+Wuhan, China,164,27%,30.5951051,114.2999353
+Nantes, France,165,27%,47.2186371,-1.5541362
+Nottingham, United Kingdom,166,27%,52.9534193,-1.1496461
+Reggio Calabria, Italy,167,27%,38.1035389,15.6397556
+Bremen, Germany,168,27%,53.0758196,8.8071646
+Stockholm, Sweden,169,27%,59.3251172,18.0710935
+Riga, Latvia,170,27%,56.9493977,24.1051846
+Lausanne, Switzerland,171,27%,46.5218269,6.6327025
+Lublin, Poland,172,27%,51.218194499999996,22.554677565192677
+Salzburg, Austria,173,27%,47.7981346,13.0464806
+Frankfurt am Main, Germany,174,27%,50.1106444,8.6820917
+Nijmegen, Netherlands,175,27%,51.8427385,5.8634696
+Turin, Italy,176,27%,45.0677551,7.6824892
+Leeds-Bradford, United Kingdom,177,27%,53.8665524,-1.6567664615412192
+Kobe, Japan,178,26%,34.6932379,135.1943764
+Swansea, United Kingdom,179,26%,51.6195955,-3.9459248
+Baton Rouge, United States of America,180,26%,30.4459596,-91.18738
+Adana, Turkey,181,26%,37.1438001,35.4984094
+San Diego, United States of America,182,26%,32.7174209,-117.1627714
+Basel, Switzerland,183,26%,47.5581077,7.5878261
+Boston, United States of America,184,26%,42.3602534,-71.0582912
+Montpellier, France,185,26%,43.6112422,3.8767337
+Shijiazhuang, China,186,26%,38.04,114.47
+Kosice, Slovakia,187,26%,48.7172272,21.2496774
+Portsmouth, United Kingdom,188,26%,50.8036831,-1.075614
+Portland, United States of America,189,26%,45.5202471,-122.6741949
+Amsterdam, Netherlands,190,26%,52.3727598,4.8936041
+Bialystok, Poland,191,26%,53.127505049999996,23.147050870161664
+Nashville, United States of America,192,26%,36.1622296,-86.7743531
+Riverside, United States of America,193,26%,33.9533546,-117.3961623
+Clermont-Ferrand, France,194,26%,45.7774551,3.0819427
+Cologne, Germany,195,26%,50.938361,6.959974
+Atlanta, United States of America,196,26%,33.7490987,-84.3901849
+Kiel, Germany,197,26%,54.3227085,10.135555
+Graz, Austria,198,26%,47.0708678,15.4382786
+Arnhem, Netherlands,199,26%,51.984257,5.9108573
+Ljubljana, Slovenia,200,26%,46.0499803,14.5068602
+Newcastle-Sunderland, United Kingdom,201,25%,54.9163149,-1.3828751
+Granada, Spain,202,25%,37.183054,-3.6021928
+Lille, France,203,25%,50.6365654,3.0635282
+Glasgow, United Kingdom,204,25%,55.8609825,-4.2488787
+Bologna, Italy,205,25%,44.4936714,11.3430347
+Sacramento, United States of America,206,25%,38.5815719,-121.4943996
+Pretoria, South Africa,207,25%,-25.7459374,28.1879444
+Bursa, Turkey,208,25%,40.182737,29.0678352
+Hamilton, New Zealand,209,25%,-37.7879076,175.2818068
+Florence, Italy,210,25%,43.7698712,11.2555757
+Dresden, Germany,211,25%,51.0493286,13.7381437
+Brisbane, Australia,212,25%,-27.4689682,153.0234991
+Halifax, Canada,213,25%,44.648618,-63.5859487
+Coventry, United Kingdom,214,25%,52.4081812,-1.510477
+Rotterdam, Netherlands,215,25%,51.9228958,4.4631727
+Kuwait City, Kuwait,216,25%,29.3797091,47.9735629
+Ningbo, China,217,24%,29.8622194,121.6203873
+Liege, Belgium,218,24%,50.6451381,5.5734203
+Dusseldorf, Germany,219,24%,51.2254018,6.7763137
+Palma de Mallorca, Spain,220,24%,39.5695818,2.6500745
+Philadelphia, United States of America,221,24%,39.9527237,-75.1635262
+Rennes, France,222,24%,48.1113387,-1.6800198
+Riyadh, Saudi Arabia,223,24%,24.6319692,46.7150648
+Houston, United States of America,224,24%,29.7589382,-95.3676974
+Adelaide, Australia,225,24%,-34.9281805,138.5999312
+Tampa, United States of America,226,24%,27.9477595,-82.458444
+Prato, Italy,227,24%,43.935718050000006,11.09414726770089
+Leipzig, Germany,228,24%,51.3406321,12.3747329
+Groningen, Netherlands,229,24%,53.2190652,6.5680077
+Gold Coast, Australia,230,24%,-28.0023731,153.4145987
+Brest, France,231,23%,48.3905283,-4.4860088
+Freiburg, Germany,232,23%,47.9960901,7.8494005
+Tianjin, China,233,23%,39.1235635,117.1980785
+Cagliari, Italy,234,23%,39.2169525,9.1128513
+Ruhr region west, Germany,235,23%,51.51751795,7.1439182017132445
+Gaziantep, Turkey,236,23%,36.9666307,37.4074178
+Quanzhou, China,237,23%,24.9038801,118.5851458
+Denver, United States of America,238,23%,39.7392364,-104.9848623
+Innsbruck, Austria,239,23%,47.26951525,11.397137204221064
+London, Canada,240,23%,42.9836747,-81.2496068
+Pescara, Italy,241,23%,42.3102619,13.95759010584892
+Hobart, Australia,242,23%,-42.8825088,147.3281233
+Madrid, Spain,243,23%,40.4167047,-3.7035825
+Santa Cruz de Tenerife, Spain,244,23%,28.469648,-16.2540884
+Preston, United Kingdom,245,23%,53.7593363,-2.6992717
+Mersin, Turkey,246,23%,36.8328277,33.9685895
+Winnipeg, Canada,247,22%,49.8955367,-97.1384584
+Dongguan, China,248,22%,23.0444712,113.7465512
+East London, South Africa,249,22%,-33.0191604,27.8998573
+Oslo, Norway,250,22%,59.9133301,10.7389701
+Karlsruhe, Germany,251,22%,49.0068705,8.4034195
+Augsburg, Germany,252,22%,48.3668041,10.8986971
+Rouen, France,253,22%,49.4404591,1.0939658
+Orlando, United States of America,254,22%,28.5421109,-81.3790304
+Utrecht, Netherlands,255,22%,52.0949753,5.109708
+Eindhoven, Netherlands,256,22%,51.44855695,5.450122521857143
+Monchengladbach, Germany,257,22%,51.1946983,6.4353641
+Linz, Austria,258,22%,48.3059078,14.286198
+Copenhagen, Denmark,259,22%,55.6867243,12.5700724
+Charleston, United States of America,260,22%,32.7876012,-79.9402728
+Aarhus, Denmark,261,22%,56.1496278,10.2134046
+New Orleans, United States of America,262,22%,29.9499323,-90.0701156
+Quebec, Canada,263,22%,52.4760892,-71.8258668
+Boise, United States of America,264,21%,43.6166163,-116.200886
+Dubai, United Arab Emirates,265,21%,25.0657,55.1713
+Uppsala, Sweden,266,21%,59.8586126,17.6387436
+Bielsko-Biala, Poland,267,21%,49.81207845,19.029198802013944
+Fresno, United States of America,268,21%,36.7295295,-119.70886126075588
+Christchurch, New Zealand,269,21%,-43.530955,172.6366455
+Brasilia, Brazil,270,21%,-10.3333333,-53.2
+Mannheim, Germany,271,21%,49.489591,8.467236
+Cape Coral-Fort Myers, United States of America,272,21%,26.7654362,-82.0491465
+Munster, Germany,273,21%,51.9625101,7.6251879
+Hannover, Germany,274,21%,52.3744779,9.7385532
+Breda, Netherlands,275,21%,51.5887845,4.7760237
+Le Havre, France,276,21%,49.4938975,0.1079732
+Ruhr region east, Germany,277,21%,51.51751795,7.1439182017132445
+Seville, Spain,278,21%,37.3886303,-5.9953403
+Pittsburgh, United States of America,279,21%,40.4416941,-79.9900861
+Las Vegas, United States of America,280,21%,36.1672559,-115.1485163
+Murcia, Spain,281,21%,37.9923795,-1.1305431
+Trieste, Italy,282,21%,45.6500335,13.7706559
+Bakersfield, United States of America,283,21%,35.3738712,-119.0194639
+Nancy, France,284,21%,48.6937223,6.1834097
+Verona, Italy,285,20%,45.4384958,10.9924122
+Saint-Etienne, France,286,20%,45.4401467,4.3873058
+Bern, Switzerland,287,20%,46.9482713,7.4514512
+Perth, Australia,288,20%,-31.9527121,115.8604796
+Leuven, Belgium,289,20%,50.879202,4.7011675
+Tauranga, New Zealand,290,20%,-37.6859006,176.167505
+Tilburg, Netherlands,291,20%,51.55847,5.083076
+Valencia, Spain,292,20%,39.4699014,-0.3759513
+Baltimore, United States of America,293,20%,39.2908816,-76.610759
+Apeldoorn, Netherlands,294,20%,52.2156457,5.9639485
+Orleans, France,295,20%,47.9027336,1.9086066
+Malaga, Spain,296,20%,36.7213028,-4.4216366
+Taranto, Italy,297,20%,40.54881555,17.08058012454743
+Dunedin, New Zealand,298,20%,-45.8740984,170.5035755
+Suzhou, China,299,20%,31.3016935,120.5810725
+Livorno, Italy,300,20%,42.79021905,10.340281392353766
+Newcastle, Australia,301,20%,-32.9272881,151.7812534
+Providence, United States of America,302,20%,41.8239891,-71.4128343
+Amersfoort, Netherlands,303,20%,52.163773899999995,5.3965879493517015
+Ghent, Belgium,304,20%,51.0538286,3.7250121
+Middlesbrough, United Kingdom,305,20%,54.5760419,-1.2344047
+Ostrava, Czechia,306,20%,49.8349139,18.2820084
+Charlotte, United States of America,307,19%,35.2270869,-80.8431268
+Dallas-Fort Worth, United States of America,308,19%,32.737242,-97.232572
+Jeddah, Saudi Arabia,309,19%,21.5810088,39.1653612
+McAllen, United States of America,310,19%,26.2043691,-98.230082
+Wuxi, China,311,19%,31.5776264,120.2951311
+Hamilton, Canada,312,19%,43.2560802,-79.8728583
+Namur, Belgium,313,19%,50.4665284,4.8661892
+Durban, South Africa,314,19%,-29.861825,31.009909
+A Coruna, Spain,315,19%,43.3712091,-8.3958768
+Tucson, United States of America,316,19%,32.2228765,-110.9748477
+Turku, Finland,317,19%,60.4517531,22.2670522
+San Antonio, United States of America,318,19%,29.4246002,-98.4951405
+Helsinki, Finland,319,19%,60.1674098,24.9425769
+Katowice urban area, Poland,320,19%,,
+Salt Lake City, United States of America,321,19%,40.7596198,-111.8867975
+Gothenburg, Sweden,322,18%,57.7072326,11.9670171
+Oxnard-Thousand Oaks-Ventura, United States of America,323,18%,34.1596456,-119.0458947
+Avignon, France,324,18%,43.9492493,4.8059012
+Reykjavik, Iceland,325,18%,64.145981,-21.9422367
+Greenville, United States of America,326,18%,34.851354,-82.3984882
+Raleigh, United States of America,327,18%,35.7803977,-78.6390989
+Phoenix, United States of America,328,18%,33.4484367,-112.0741417
+Konya, Turkey,329,18%,37.8719963,32.4844015
+Odense, Denmark,330,18%,55.3997225,10.3852104
+Las Palmas, Spain,331,18%,28.128874,-15.4349448
+Alicante, Spain,332,18%,38.353738,-0.4901846
+Bielefeld, Germany,333,18%,52.0191005,8.531007
+Braga, Portugal,334,18%,41.5510583,-8.4280045
+Birmingham, United States of America,335,18%,33.5206824,-86.8024326
+Zwolle, Netherlands,336,18%,52.5089759,6.0943765
+Le Mans, France,337,18%,48.0073498,0.1967379
+Calgary, Canada,338,18%,51.0534234,-114.0625892
+Reggio Emilia, Italy,339,18%,44.608664,10.594796841892734
+Dijon, France,340,17%,47.3215806,5.0414701
+Colorado Springs, United States of America,341,17%,38.8339578,-104.8253485
+Wuppertal, Germany,342,17%,51.264018,7.1780374
+Jacksonville, United States of America,343,17%,30.3321838,-81.655651
+Albuquerque, United States of America,344,17%,35.0841034,-106.6509851
+Padua, Italy,345,17%,45.4077172,11.8734455
+Parma, Italy,346,17%,44.8013678,10.3280833
+Santander, Spain,347,17%,43.4620412,-3.8099719
+Den Bosch, Netherlands,348,17%,51.6889351,5.3031044
+Hartford, United States of America,349,17%,41.764582,-72.6908547
+Canberra, Australia,350,17%,-35.2975906,149.1012676
+Funchal, Portugal,351,17%,32.6496497,-16.9086783
+Minneapolis, United States of America,352,17%,44.9772995,-93.2654692
+Kayseri, Turkey,353,17%,38.6582232,35.5546374
+Ravenna, Italy,354,17%,44.364060699999996,12.059009490863945
+Bruges, Belgium,355,16%,51.2085526,3.226772
+Columbus, United States of America,356,16%,39.9622601,-83.0007065
+Cincinnati, United States of America,357,16%,39.1014537,-84.5124602
+Reims, France,358,16%,49.2577886,4.031926
+Edmonton, Canada,359,16%,53.535411,-113.507996
+New Haven, United States of America,360,16%,41.3082138,-72.9250518
+Detroit, United States of America,361,16%,42.3315509,-83.0466403
+Virginia Beach, United States of America,362,16%,36.8529841,-75.9774183
+El Paso, United States of America,363,16%,31.7754152,-106.4646348
+Kitchener-Waterloo, Canada,364,16%,43.453168,-80.494423
+Tours, France,365,16%,47.3900474,0.6889268
+Grand Rapids, United States of America,366,16%,42.9632405,-85.6678639
+Albany, United States of America,367,16%,42.6511674,-73.754968
+Gijon, Spain,368,16%,43.5450394,-5.6626443
+Pamplona, Spain,369,16%,42.8184538,-1.6442556
+Louisville, United States of America,370,15%,38.2542376,-85.759407
+Kortrijk, Belgium,371,15%,50.8276429,3.2659884
+Bergen, Norway,372,15%,60.3943055,5.3259192
+Allentown, United States of America,373,15%,40.6022059,-75.4712794
+Vigo, Spain,374,15%,42.2376602,-8.7247205
+Coimbra, Portugal,375,15%,40.2109801,-8.4292057
+Tampere, Finland,376,15%,61.4980214,23.7603118
+Worcester, United States of America,377,15%,42.2625932,-71.8022934
+Trondheim, Norway,378,15%,63.4305658,10.3951929
+Malmo, Sweden,379,15%,55.6052931,13.0001566
+Buffalo, United States of America,380,15%,42.8867166,-78.8783922
+Memphis, United States of America,381,15%,35.1490215,-90.0516285
+Modena, Italy,382,14%,44.5384728,10.935960870530739
+St. Louis, United States of America,383,14%,38.6529545,-90.24111656024635
+Indianapolis, United States of America,384,14%,39.7683331,-86.1583502
+Cordoba, Spain,385,14%,37.8845813,-4.7760138
+Brescia, Italy,386,14%,45.77958045,10.4258729694612
+Vitoria-Gasteiz, Spain,387,14%,42.8465088,-2.6724025
+Omaha-Council Bluffs, United States of America,388,14%,41.3011252,-95.8898709146804
+Oklahoma City, United States of America,389,14%,35.4729886,-97.5170536
+Cartagena, Spain,390,14%,37.6267868,-1.0006184
+Zaragoza, Spain,391,14%,41.6521342,-0.8809428
+Rochester, United States of America,392,14%,43.157285,-77.615214
+San Sebastian, Spain,393,14%,43.3224219,-1.9838889
+Wollongong, Australia,394,13%,-34.4243941,150.89385
+Charleroi, Belgium,395,13%,50.4120332,4.4436244
+Valladolid, Spain,396,13%,41.6521328,-4.728562
+Stavanger, Norway,397,13%,58.9689601,5.7294654
+Oviedo, Spain,398,13%,43.3533424,-5.879514339526834
+Columbia, United States of America,399,13%,34.0007493,-81.0343313
+Milwaukee, United States of America,400,13%,43.0349931,-87.922497
+Bilbao, Spain,401,13%,43.2630051,-2.9349915
+Bloemfontein, South Africa,402,13%,-29.116395,26.215496
+Tulsa, United States of America,403,13%,36.1556805,-95.9929113
+Cleveland, United States of America,404,12%,41.5051613,-81.6934446
+Knoxville, United States of America,405,12%,35.9603948,-83.9210261
+Kansas City, United States of America,406,12%,39.100105,-94.5781416
+Richmond, United States of America,407,12%,37.5385087,-77.43428
+Winston-Salem, United States of America,408,12%,36.0998131,-80.2440518
+Little Rock, United States of America,409,11%,34.7464809,-92.2895948
+Abu Dhabi, United Arab Emirates,410,10%,24.4747961,54.3705762
+Almere, Netherlands,411,10%,52.375092,5.216168
+Dayton, United States of America,412,10%,39.7589478,-84.1916069
+Syracuse, United States of America,413,10%,43.0481221,-76.1474244
+Akron, United States of America,414,10%,41.083064,-81.518485
+Cadiz, Spain,415,10%,36.5297438,-6.2928976
+Greensboro-High Point, United States of America,416,9%,35.8494875,-80.2128062
